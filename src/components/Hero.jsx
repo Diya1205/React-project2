@@ -6,7 +6,6 @@ function Hero(){
     return(
        <section className="hero">
   <div className="star-background">
-    {'{'}/* {/* 40 stars */} */{'}'}
     <span /><span /><span /><span /><span />
     <span /><span /><span /><span /><span />
     <span /><span /><span /><span /><span />

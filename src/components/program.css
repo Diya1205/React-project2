@@ -123,6 +123,7 @@ body {
 }
 
 @media (max-width: 768px) {
+  
   .program-list {
     flex-direction: column;
     align-items: center;

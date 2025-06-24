@@ -44,6 +44,7 @@ body {
 }
 
 @media (max-width: 600px) {
+  
   .list {
     flex-direction: column;
     gap: 20px; 
